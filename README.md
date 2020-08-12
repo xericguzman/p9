@@ -24,6 +24,7 @@ Your project should meet the following requirements:
 
 1. Run without errors
 1. Built in Python, use a SQL database with PeeWee models
+1. Must have a working seed script for the database (creating database and tables), this can be done either using PeeWee or a `.sql` file
 1. Include a README written in well formatted Markdown (_hint: look up a README
    template_)
 1. Shows a good commit history with frequent commits. We're looking for lots of
