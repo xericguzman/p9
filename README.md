@@ -78,3 +78,4 @@ Once you have the command line version working consider the following bonuses:
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
+# p9
